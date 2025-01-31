@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+Jt7HMhvt8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Allyne\\source\\repos\\Redimentcionador\\Redimensionador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Allyne\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.1\\microsoft.win32.systemevents.9.0.1.nupkg.sha512",
+    "C:\\Users\\Allyne\\.nuget\\packages\\system.drawing.common\\9.0.1\\system.drawing.common.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
